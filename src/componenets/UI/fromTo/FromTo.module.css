@@ -1,0 +1,16 @@
+.myFromTo {
+    width: 800px;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.myFromToMini1 {
+    width: 49%;
+}
+
+.myFromToMini2 {
+    width: 49%;
+}
